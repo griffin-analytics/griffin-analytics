@@ -14,7 +14,7 @@ Griffin MMM is a state-of-the-art, production-ready Bayesian Media Mix Modelling
 - **Optimized Budget Allocation**: Simulate and discover the best ways to allocate your marketing spend for maximum returns.
 - **Reliable and Transparent Insights**: Gain stable, interpretable results, even with sparse or incomplete data.
 
-Ready to get started? [Run the demo notebook in Google Colab](https://github.com/griffin-analytics/griffin-analytics/) or contact us at **info@griffin-analytics.com**.
+Ready to get started? [Run the demo notebook in Google Colab](https://github.com/griffin-analytics/griffin-mmm-demo/tree/main/demo) or contact us at **info@griffin-analytics.com**.
 
 ---
 
