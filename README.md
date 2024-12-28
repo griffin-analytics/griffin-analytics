@@ -1,4 +1,4 @@
-# Griffin MMM: Advanced Bayesian Media Mix Modelling
+# Griffin MMM: Advanced Media Mix Modelling Workbench
 
 <p align="center">
   <img src="https://github.com/griffin-analytics/griffin-mmm-demo/blob/main/images/logo.png" alt="Griffin Analytics Logo">
