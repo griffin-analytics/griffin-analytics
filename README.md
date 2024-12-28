@@ -1,7 +1,7 @@
 # Griffin MMM: Advanced Bayesian Media Mix Modelling
 
 <p align="center">
-  <img src="images/logo.png" alt="Griffin Analytics Logo">
+  <img src="https://github.com/griffin-analytics/griffin-mmm-demo/blob/main/images/logo.png" alt="Griffin Analytics Logo">
 </p>
 
 ---
