@@ -1,6 +1,8 @@
 # Griffin MMM: Advanced Bayesian Media Mix Modelling
 
-[Center-aligned logo image placeholder]
+<p align="center">
+  <img src="images/logo.png" alt="Griffin Analytics Logo">
+</p>
 
 ---
 
