@@ -8,7 +8,7 @@
 
 ## Revolutionize Your Marketing Strategy with Griffin MMM
 
-Griffin MMM is a state-of-the-art, production-ready Bayesian Media Mix Modelling (MMM) platform designed specifically for small to medium marketing agencies. Built on top of the PyMC framework, Griffin MMM offers marketers unparalleled insights into campaign performance, enabling:
+Griffin MMM is a practical, production-ready Bayesian Media Mix Modelling (MMM) platform designed specifically for small to medium marketing agencies. Built on top of the PyMC framework, Griffin MMM offers marketers unparalleled insights into campaign performance, enabling:
 
 - **Precise ROI Measurement**: Understand the true value of each media channel using Bayesian inference.
 - **Optimized Budget Allocation**: Simulate and discover the best ways to allocate your marketing spend for maximum returns.
