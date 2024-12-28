@@ -90,8 +90,17 @@ Comprehensive setup instructions, API references, and use cases are included in 
 * Email: Contact us at info@griffin-analytics.com for personalized assistance.
 
 ## License and Terms of Use
-Griffin MMM is governed by the End-User License Agreement (EULA). Please review the EULA before use.
-* Demo Version: Free to evaluate with up to 4 media channels.
-* Pro Version: Includes full feature access and priority support.
 
-For licensing terms, refer to the /docs/EULA.md file.
+Griffin MMM operates under two key legal agreements:
+
+1. [Griffin Subscription Agreement](https://github.com/griffin-analytics/griffin-mmm-demo/blob/main/LEGAL/Griffin_Subscription_Agreement_v1.docx): This document outlines the subscription terms for Pro users, including pricing, usage rights, and support provisions.
+
+2. [Griffin End-User License Agreement (EULA)](https://github.com/griffin-analytics/griffin-mmm-demo/blob/main/LEGAL/Griffin_EULA_v1.docx): This agreement governs the use of Griffin MMM for both demo and Pro versions. All users must review and accept the EULA before using the software.
+
+### Versions and Features:
+- **Demo Version**: Free to evaluate, with support for up to 4 media channels.
+  
+- **Pro Version**: Includes full feature access, unlimited media channels, and priority support.
+
+For detailed licensing terms, refer to the respective documents linked above or visit the `/docs/LEGAL` directory of the demo repository (https://github.com/griffin-analytics/griffin-mmm-demo/).
+
