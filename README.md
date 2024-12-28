@@ -31,22 +31,17 @@ Ready to get started? [Run the demo notebook in Google Colab](https://github.com
 
 ## Quick Start Guide
 
-### 1. Clone the Repository
-Clone the repository to your local machine using:
-
-    git clone https://github.com/griffin-analytics/griffin-analytics.git
-
-### 2. Open the Demo Notebook
+### 1. Open the Demo Notebook
 Navigate to the /demo folder, and open the griffin_demo.ipynb notebook in Google Colab.
 
-### 3. Configure and Run
+### 2. Configure and Run
 * Install dependencies with one click in the Colab environment.
-* Use the preloaded sample data and configuration files (config.yaml).
+* Use the preloaded sample data and demo configuration files (config.yaml) or load your own.
 * Explore features such as budget optimization, channel contribution analysis, and predictive insights.
 
-### 4. Visualize and Interpret
-* Leverage built-in visualizations, such as adstock and saturation curves, to make data-driven decisions.
-* Export results to PowerBI or Streamlit for further customization.
+### 3. Visualize and Interpret
+* Review results to make data-driven decisions.
+* (Optional) Use PowerBI or similar for further visualisations as needed.
 
 Need help? Contact us or raise a GitHub issue.
 
