@@ -32,7 +32,7 @@ Ready to get started? [Run the demo notebook in Google Colab](https://github.com
 ## Quick Start Guide
 
 ### 1. Open the Demo Notebook
-Once your data is ready, navigate to the /demo folder, and open the griffin_demo.ipynb notebook in Google Colab.
+Once your data is ready, navigate to the /demo folder, and open the demo notebook in Google Colab (look for the .ipynb file).
 
 ### 2. Configure and Run
 * Install dependencies with one click in the Colab environment.
