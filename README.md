@@ -22,9 +22,9 @@ Ready to get started? [Run the demo notebook in Google Colab](https://github.com
 
 | Feature | Griffin MMM Highlights |
 |---------|----------------------|
-| **Bayesian Modelling** | Robust modelling techniques for accurate results. |
-| **Intuitive Visualizations** | Transform data into actionable insights using dashboards and charts. |
-| **Scalable and Flexible** | Handle up to unlimited channels with Pro access. |
+| **Bayesian Modelling** | Robust modelling techniques for replicable results. |
+| **Intuitive Visualizations** | Transform data into actionable insights using standardised csv and png outputs. |
+| **Scalable and Flexible** | Model unlimited channels with Pro access. |
 | **Built for Agencies** | Simple configuration and setup, no advanced coding needed. |
 
 ---
