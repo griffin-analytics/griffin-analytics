@@ -59,7 +59,7 @@ Griffin MMM offers significant advantages over traditional solutions, including:
 **Alternative to Robyn:**
 * Offers more robust outputs and interpretable results compared to open-source solutions like Meta's Robyn.
 
-## Beta Release Special
+## Early Release Special
 Griffin MMM is currently in early release until 31 March 2025. During this period:
 * Early adopters enjoy discounted subscription rates.
 * Feedback from beta users helps shape the future of Griffin MMM.
